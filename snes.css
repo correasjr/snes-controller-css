@@ -19,7 +19,7 @@ body{
    border: 1px transparent black;
    width: 650px;
    height: 350px;
-   transform: translate(10%, 30%);
+   transform: translate(50%, 30%);
 }
 
 .roundside{
@@ -576,7 +576,7 @@ body{
    color: #d5d5dd;
    background-color: rgb(104, 106, 111, 0.9);
    margin: auto;
-   top: 22px;
+   top: 28px;
    left: -21px;
    font-size: x-small;
    letter-spacing: 4px;
